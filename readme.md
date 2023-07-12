@@ -33,3 +33,9 @@ The demo app is a very simple Joke generator. Replace with your own code and ins
 - index.js (main javascript)
 - template.html (template)
 - styles/main.scss (styles)
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+This template is licensed under a Creative Commons Attribution.
+
+**Original template idea by:** [bradtraversy.](https://github.com/bradtraversy/webpack-starter)
